@@ -32,7 +32,7 @@ const Contact = () => {
               {" "}
               <div className=" hover:text-ExtraDarkColor josefin-sans-light box1 w-[380px] sm:w-[300px] h-[70px] bg-ExtraDarkColor  rounded-[15px] text-SecondaryColor text-[20px] sm:text-[16px] flex justify-center items-center gap-[15px] sm:gap-[10px]  ">
                 <MailOutlineIcon className="connect-icon" style={{ fontSize: 45 }} />
-                @gmail.com{" "}
+                rohan15nawariya@gmail.com{" "}
               </div>
             </a>
             <a className="m-[20px]" href="tel:+919717921215">
