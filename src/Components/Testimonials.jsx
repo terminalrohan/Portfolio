@@ -18,15 +18,15 @@ const Testimonials = () => {
           <div className="heading flex items-center sm:mt-[30px]">
             <hr className="w-[60px] h-[4px] ml-[30px] bg-SecondaryColor rounded sm:hidden" />
             <div className="title text-SecondaryColor text-[25px] pl-[20px] sm:pl-[5px] sm:text-[20px]">
-              Trainee, Brain Mentors Pvt Ltd
+              Front End Software Developer, Coltri Marthub Pvt. Ltd. (Aug 2024-Ongoing)
             </div>
           </div>
           <div className="feedbacks  ml-[110px] text-PrimiaryColor text-[18px] josefin-sans-light p-[20px] sm:ml-[0px]">
             <div className="desp ">
-            • Completed 4-week Summer Training Program conducted by Brain Mentors Pvt Ltd under the supervision of Mr. Amit
-Srivastava for the course “MERN Stack“.
-• Worked on MongoDB, Express, React, & Node.js along with HTML various CSS & JavaScript Frameworks, Libraries
-and concepts of Web development
+            • Currently Working as an Intern at Coltri Marthub Pvt. Ltd. with the Software Developers team. 
+• Technical Skills: HTML, CSS, JavaScript, BootStrap, React.
+• Soft Skills: Teamwork, Time Management, Communication, Presentation skills.
+
             </div>
           
           </div>
