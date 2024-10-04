@@ -129,20 +129,20 @@ export const project = [
         link1 : "https://todomeow.vercel.app/",
         link2 : "https://github.com/whorohannawriya/todo"
     },
-    // {
-    //     id : "3",
-    //     img : project4,
-    //     name : "To Do App for I-Phone",
-    //     desp: "This is an To Do list App for I-Phone , This is made using Firebase in Swift and SwiftUI",
-    //     link1 : "https://github.com/Robin-Rathore",
-    //     link2 : "https://github.com/Robin-Rathore"
-    // },
-    // {
-    //     id : "4",
-    //     img : project5,
-    //     name : "Portfolio",
-    //     desp : "This is my another personal portfolio design",
-    //     link1 : "https://robin-rathore.netlify.app/",
-    //     link2 : "https://github.com/Robin-Rathore/My_Postfolio"
-    // },
+    {
+        id : "3",
+        img : project4,
+        name : "coINsight.",
+        desp: "A cryptocurrency dashboard in React displaying real-time data for the top 100 coins",
+        link1 : "https://github.com/whorohannawriya",
+        link2 : "https://github.com/whorohannawriya"
+    },
+    {
+        id : "4",
+        img : project5,
+        name : "Driver Drowsiness Detection System ",
+        desp : "System to alert a driver upon detection of drowsiness or sleep",
+        link1 : "https://github.com/whorohannawriya/DDDS",
+        link2 : "https://github.com/whorohannawriya/DDDS"
+    },
 ]
