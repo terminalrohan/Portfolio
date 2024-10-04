@@ -23,9 +23,9 @@ const Testimonials = () => {
           </div>
           <div className="feedbacks  ml-[110px] text-PrimiaryColor text-[18px] josefin-sans-light p-[20px] sm:ml-[0px]">
             <div className="desp ">
-            • Currently Working as an Intern at Coltri Marthub Pvt. Ltd. with the Software Developers team.<br/>
-            • Technical Skills: HTML, CSS, JavaScript, BootStrap, React.<br/>
-            • Soft Skills: Teamwork, Time Management, Communication, Presentation skills.
+            • Developed and optimized responsive Frontend web applications using  HTML, CSS, JavaScript and mordern frontend framework React.<br/>
+            • Participated in code reviews and contributed to improving code quality and performance.<br/>
+            • Assisted in integrating third-party APIs to enhance website features and functionality.
 
             </div>
           
