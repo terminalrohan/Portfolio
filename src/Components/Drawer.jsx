@@ -83,7 +83,7 @@ const Drawer = () => {
             </li>
           </ul>
         </nav>
-        <a href="https://www.linkedin.com/in/robin-rathore-833863238">
+        <a href="https://www.linkedin.com/in/rohan-nawriya-326698300/">
         <button
                 type="button"
                 className='button_cart
