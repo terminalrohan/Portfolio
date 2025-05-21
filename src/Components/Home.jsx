@@ -16,7 +16,7 @@ const Home = () => {
         <h1 className='text-[45px] sm:text-[20px] josefin-sans-light text-PrimiaryColor'>
             I'm <span className='text-[70px] sm:text-[25px] text-SecondaryColor osefin-sans-bold'>Rohan </span> <br/> Currently Working as a Frontend Developer Intern at Coltri Marthub Pvt. Ltd. <br/>
         </h1>
-        <a href="https://www.linkedin.com/in/rohan-nawriya-326698300/">
+        <a href="https://www.linkedin.com/in/rohan-326698300/">
         <button
                 type="button"
                 className='button_cart
