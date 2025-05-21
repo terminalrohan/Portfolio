@@ -18,14 +18,16 @@ const Testimonials = () => {
           <div className="heading flex items-center sm:mt-[30px]">
             <hr className="w-[60px] h-[4px] ml-[30px] bg-SecondaryColor rounded sm:hidden" />
             <div className="title text-SecondaryColor text-[25px] pl-[20px] sm:pl-[5px] sm:text-[20px]">
-              Front End Software Developer, Coltri Marthub Pvt. Ltd. <br/> (Aug 2024-Oct 2024)
+              Front End Software Developer, Coltri Marthub Pvt. Ltd. <br/> (Dec 2024- Ongoing)
             </div>
           </div>
           <div className="feedbacks  ml-[110px] text-PrimiaryColor text-[18px] josefin-sans-light p-[20px] sm:ml-[0px]">
             <div className="desp ">
-            • Developed and optimized responsive Frontend web applications using  HTML, CSS, JavaScript and mordern frontend framework React.<br/>
-            • Participated in code reviews and contributed to improving code quality and performance.<br/>
-            • Assisted in integrating third-party APIs to enhance website features and functionality.
+            • Contributed to the frontend development of a business website for a small-scale finance company, focusing on responsiveness, usability, and client requirements.<br/>
+            • Reviewed and debugged code written by senior developers to identify and fix responsive design issues, ReactJS errors, and API integration bugs.<br/>
+            • Implemented frontend components using HTML, CSS, JavaScript, and ReactJS, ensuring consistent UI across devices.<br/>
+            • Integrated APIs using Axios to fetch and display client data dynamically, improving website interactivity and load times.<br/>
+            • Delivered a polished, fully functional, and client-approved live website that enhanced the client’s digital presence and accessibility for their customers.
 
             </div>
           
