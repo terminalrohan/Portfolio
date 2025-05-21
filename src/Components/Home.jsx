@@ -14,7 +14,7 @@ const Home = () => {
     <div className='wrapper w-full h-full bg-DarkColor flex custom-bottom-shadow ' >
       <div className="text py-[14rem] px-[8rem] sm:py-[2rem] sm:px-[1rem]">
         <h1 className='text-[45px] sm:text-[20px] josefin-sans-light text-PrimiaryColor'>
-            I'M <span className='text-[70px] sm:text-[25px] text-SecondaryColor osefin-sans-bold'>Rohan Nawriya</span> <br/> Frontend Developer <br/>
+            I'm <span className='text-[70px] sm:text-[25px] text-SecondaryColor osefin-sans-bold'>Rohan </span> <br/> Currently Working as a Frontend Developer Intern at Coltri Marthub Pvt. Ltd. <br/>
         </h1>
         <a href="https://www.linkedin.com/in/rohan-nawriya-326698300/">
         <button
