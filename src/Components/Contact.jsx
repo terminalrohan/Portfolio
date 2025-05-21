@@ -28,11 +28,11 @@ const Contact = () => {
         </div>
         <div className="main">
           <div className="main_wrapper flex flex-wrap justify-center items-center m-[150px] sm:m-[100px]">
-            <a className="m-[20px]  " href="mailto:rohan15nawariya@gmail.com">
+            <a className="m-[20px]  " href="mailto:terminalrohan@gmail.com">
               {" "}
               <div className=" hover:text-ExtraDarkColor josefin-sans-light box1 w-[380px] sm:w-[300px] h-[70px] bg-ExtraDarkColor  rounded-[15px] text-SecondaryColor text-[20px] sm:text-[16px] flex justify-center items-center gap-[15px] sm:gap-[10px]  ">
                 <MailOutlineIcon className="connect-icon" style={{ fontSize: 45 }} />
-                rohan15nawariya@gmail.com{" "}
+                terminalrohan@gmail.com{" "}
               </div>
             </a>
             <a className="m-[20px]" href="tel:+919717921215">
@@ -47,7 +47,7 @@ const Contact = () => {
 
             <a
               className="m-[20px]"
-              href="https://amber-shandie-60.tiiny.site/"
+              href="https://rohanresume.tiiny.site/"
             >
               {" "}
               <div className=" hover:text-ExtraDarkColor josefin-sans-light box1 w-[380px] h-[70px] sm:w-[300px] bg-ExtraDarkColor rounded-[15px] text-SecondaryColor text-[20px] sm:text-[16px] flex justify-center items-center gap-[50px] sm:gap-[30px]">
@@ -66,10 +66,10 @@ const Contact = () => {
           <div className="title text-PrimiaryColor  text-[60px] josefin-sans-bold absolute bottom-[-40px] sm:bottom-[-26px] flex space-x-10 sm:text-[40px] sm:space-x-[15px] ">
             
             <div className="icon ">
-                <a href="https://github.com/whorohannawriya"><GitHub className="icon"  style={{fontSize:`${iconSize}px`}}/></a>
+                <a href="https://github.com/terminalrohan"><GitHub className="icon"  style={{fontSize:`${iconSize}px`}}/></a>
             </div>
             <div className="icon ">
-            <a href="https://www.linkedin.com/in/rohan-nawriya-326698300/"><LinkedIn className="icon"  style={{fontSize:`${iconSize}px`}}/></a>
+            <a href="https://www.linkedin.com/in/rohan-326698300/"><LinkedIn className="icon"  style={{fontSize:`${iconSize}px`}}/></a>
             </div>
             
           </div>
@@ -83,7 +83,7 @@ const Contact = () => {
         
       </div>
       <div style={{display:"flex", gap:"10px"}} className="footer__copyright w-full h-full bg-ExtraDarkColor flex justify-center items-center">
-          <div style={{display:"flex", gap:"10px"}}  className="copyright__content text-[15px] sm:text-[12px] text-LightPrimaryColor josefin-sans-light ">&copy; 2024, <a href="https://www.linkedin.com/in/rohan-nawriya-326698300/" title="">Rohan Nawriya</a>. All rights reserved.</div>
+          <div style={{display:"flex", gap:"10px"}}  className="copyright__content text-[15px] sm:text-[12px] text-LightPrimaryColor josefin-sans-light ">&copy; 2024, <a href="https://www.linkedin.com/in/rohan-326698300/" title="">Rohan</a>. All rights reserved.</div>
         </div>
     </>
   );
