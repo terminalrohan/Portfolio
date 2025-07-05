@@ -98,7 +98,7 @@ const Experience = () => {
                 Maharaja Surajmal Institute of Technology, Delhi
               </div>
               <div className="content text-PrimiaryColor text-[22px] josefin-sans-light sm:text-[18px] pt-[25px]">
-              I am currently pursuing a Bachelor of Technology in Computer Science and Engineering at Maharaja Surajmal Institute of Technology in Delhi, with an expected graduation year of 2025. With a current GPA of 8.32, I have consistently demonstrated academic excellence and a strong understanding of core engineering principles. 
+              I am 2025 Graduate completed Bachelor of Technology in Computer Science and Engineering at Maharaja Surajmal Institute of Technology in Delhi. With a current GPA of 8.504, I have consistently demonstrated academic excellence and a strong understanding of core engineering principles. 
               </div>
             </div>
           </div>
