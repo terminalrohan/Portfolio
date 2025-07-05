@@ -47,7 +47,7 @@ const Contact = () => {
 
             <a
               className="m-[20px]"
-              href="https://rohanresume.tiiny.site/"
+              href="https://amber-shandie-60.tiiny.site"
             >
               {" "}
               <div className=" hover:text-ExtraDarkColor josefin-sans-light box1 w-[380px] h-[70px] sm:w-[300px] bg-ExtraDarkColor rounded-[15px] text-SecondaryColor text-[20px] sm:text-[16px] flex justify-center items-center gap-[50px] sm:gap-[30px]">
